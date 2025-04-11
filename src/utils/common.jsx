@@ -1,67 +1,72 @@
- export const getColor = (category) => {
-
-    // const mainCategory=getcategoryFromSubCategory(category);
-    // Convert to lowercase for case-insensitive matching
-    const cat = category?.toLowerCase?.() || "";
-    
-    // Define colors with appropriate text contrast
-    switch (cat) {
-      case "residential":
-        return { 
-          background: "#1E90FF", // DodgerBlue
-          text: "#FFFFFF" // White text on dark blue
-        };
-      case "commercial":
-        return { 
-          background: "#9370DB", // OrangeRed
-          text: "#FFFFFF" // White text on dark orange
-        };
-      case "industrial":
-        return { 
-          background: "#8B4513", // SaddleBrown
-          text: "#FFFFFF" // White text on brown
-        };
-      case "agricultural":
-        return { 
-          background: "#32CD32", // LimeGreen
-          text: "#000000" // Black text on bright green
-        };
-      case "exempt":
-        return { 
-          background: "#2f9e44", // MediumPurple
-          text: "#FFFFFF" // White text on purple
-        };
-      case "utility":
-        return { 
-          background: "#FFD700", // Gold
-          text: "#000000" // Black text on gold
-        };
-      case "vacant":
-        return { 
-          background: "#DCDCDC", // Gainsboro
-          text: "#000000" // Black text on light gray
-        };
-      case "recreational":
-        return { 
-          background: "#00CED1", // DarkTurquoise
-          text: "#000000" // Black text on turquoise
-        };
-      case "transportation":
-        return { 
-          background: "#FF69B4", // HotPink
-          text: "#000000" // Black text on pink
-        };
-      case "other":
-        return { 
-          background: "#708090", // SlateGray
-          text: "#FFFFFF" // White text on slate gray
-        };
-      default:
-        return { 
-          background: "#CCCCCC", // Light Gray
-          text: "#000000" // Black text on light gray
-        };
-    }
-  };
-
-  
+export const getColor = (category) => {
+  // Remove first and last character, then convert to uppercase
+  const trimmedCat = category?.toUpperCase() || "";
+console.log(trimmedCat)
+  switch (trimmedCat) {
+    case "RESIDENTIAL":
+      return {
+        background: "#1E90FF",
+        text: "#FFFFFF"
+      };
+    case "COMMERCIAL":
+      return {
+        background: "#9370DB",
+        text: "#FFFFFF"
+      };
+    case "INDUSTRIAL":
+      return {
+        background: "#8B4513",
+        text: "#FFFFFF"
+      };
+    case "AGRICULTURE":
+      return {
+        background: "#32CD32",
+        text: "#000000"
+      };
+    case "OPEN SPACE/PARKS":
+      return {
+        background: "#00CED1",
+        text: "#000000"
+      };
+    case "PUBLIC":
+      return {
+        background: "#FFD700",
+        text: "#000000"
+      };
+    case "SPECIFIC PURPOSE":
+      return {
+        background: "#2f9e44",
+        text: "#FFFFFF"
+      };
+    case "PLANNED DEVELOPMENT":
+      return {
+        background: "#FF69B4",
+        text: "#000000"
+      };
+    case "MIXED USE":
+      return {
+        background: "#FFA500",
+        text: "#000000"
+      };
+    case "OVERLAY":
+      return {
+        background: "#9370DB",
+        text: "#FFFFFF"
+      };
+    case "OTHER":
+      return {
+        background: "#708090",
+        text: "#FFFFFF"
+      };
+    case "UNKNOWN":
+      return {
+        background: "#CCCCCC",
+        text: "#000000"
+      };
+    default:
+      return {
+        background: "#EEEEEE",
+        text: "#000000"
+      };
+  }
+};

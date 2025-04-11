@@ -10,8 +10,9 @@ const Map = dynamic(() => import("../components/googlemaps/map"), { ssr: false }
 
 
 const addressOptions = [
-  { value: {lat:44.976,lng:-93.2719,address:"701 NICOLLET MALL, MINNEAPOLIS, MN 55402"}, label: "701 NICOLLET MALL, MINNEAPOLIS, MN 55402" },
-  { value: {lat:41.4378,lng:-81.6852,address:"456 Park Ave"}, label: "456 Park Ave" },
+  { value: {lat:35.1414401,lng:-80.9211991,address:"The Edison Arrowood"}, label: "The Edison Arrowood" },
+  // { value: {lat:44.976,lng:-93.2719,address:"701 NICOLLET MALL, MINNEAPOLIS, MN 55402"}, label: "701 NICOLLET MALL, MINNEAPOLIS, MN 55402" },
+  // { value: {lat:41.4378,lng:-81.6852,address:"456 Park Ave"}, label: "456 Park Ave" },
 ];
  
 export default function HomePage() {

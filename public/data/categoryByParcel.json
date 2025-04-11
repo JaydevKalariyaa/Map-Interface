@@ -1,0 +1,3737 @@
+[
+    {
+      "PARCEL_LID": "0204ZMKP61N99XYVEZDQCX",
+      "ZONING_CATEGORY": "COMMERCIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200P56WUJYCEFDZ4D47KY",
+      "ZONING_CATEGORY": "COMMERCIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0205X6O9YHCL6Q8EUL8L5Q",
+      "ZONING_CATEGORY": "COMMERCIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203U8RPA6VWMC99V5NNUH",
+      "ZONING_CATEGORY": "COMMERCIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204YGZ34LSNOPXFV326N9",
+      "ZONING_CATEGORY": "COMMERCIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204AHT6CJR4LG5TSY9Q8Q",
+      "ZONING_CATEGORY": "COMMERCIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204AWXDJD3XWMV8NYA7WJ",
+      "ZONING_CATEGORY": "COMMERCIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0206DE6YUQSPAN430NRWM6",
+      "ZONING_CATEGORY": "COMMERCIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204QB4LM993XPUPOSKZU6",
+      "ZONING_CATEGORY": "COMMERCIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0206EW8C357MZPOBFGDM0T",
+      "ZONING_CATEGORY": "COMMERCIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200DKP3WSPH9XVI1ERZB4",
+      "ZONING_CATEGORY": "COMMERCIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02037FNF5ICI95TG84L6YW",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02014CILAEVZ5Y6YFX7SWM",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0207K4CSX41NU4GDO2IW2Q",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201OSBPW4F8Z2S90ZNVDR",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201MJRANUSHLT33RVXU4I",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02025F32FLKE3WAMZGHJ6M",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200571O1UEO4Q61CSGWSX",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0206LGRFKDN9E1D5IHPDRA",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02065O23D61ROS9Y3JVYE1",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200SOAWLJTVUNH0NSNIHD",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0205Y7EZ1OO2WI9YY5HHAD",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02005IZFOYF31M8Q75N1OW",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02002BFZV6H2IHHAYLH3SC",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0206WTN7T6LZTAI2DHPQ35",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02062BEHV3ZO6813JBEAGN",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204I6UQS0EGHFAYPW2SUL",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02058OT9A73FVH2KYRBIY7",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02018ZHJ18XURDYUAGH4K4",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02078WRMK9ALZ9NBIDWG82",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201C22DTHKGOJGFAKGBB8",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02066UNCOFOSCIWL9G9GXB",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0206DUTVVQS75F6772659R",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "020651FGMXSEJB2VYJ04OP",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02019T0HHEHCJ8D4CM4WEO",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202DJAP66H0JRYVPNXNJ7",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "020307NC33JTOUU7884DP8",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0207GVO4AAPSWBIGE3N1B6",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201PLOP8UXH58JWHY1JEZ",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202VWAXFDNZ4Y922UV0SA",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202LJDKMST01N5KACV02X",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0207CGAXWV11UHNVXIFN73",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202LAZCMG26F2KV3860YU",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202N7SNQ8NP6UB4YB7KYI",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204IY35IZU0I0SLIK35I8",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0207L9CGCRY3N1ADU08ASU",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0205YZHUZBZ9DO3UH8DR13",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0205O0Z6XBNCRJALA7RU8B",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200DCYWPZRNXQ17I3BLUN",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200WOAHPH67SE505PJ9AK",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203TFWL08PBYJFHSXEAAS",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204VXJLM3MRYD4VEFBIDV",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200BEBEN863K6YSMB5E60",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02031ERLZ6I3744UGSTS6A",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200T9MJMQCZEWTDMB6YNR",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02031Y48GD9JKOIW2YP4KB",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200JDTVEBTD0A7JL22L98",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204FR9D4HQ5Z7DEE5R4J0",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0205IPKUO0KOGY810GBSPI",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02050FN4ANXAX5NG7ZL42J",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02034FEWLYZ6D4VWHHQNDS",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "020103PSXZV9ESZR7072VC",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201J85X6E2NLGFJ4XURPL",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "020130Y8RAIXGMFAJ6FIJP",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203QITGLJ28HRYCG02R7K",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204ZXRW7RAX9LAGS87RBT",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02000XXOZ8HT8IG30SLQFD",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200I0RNON8CY7XILCFULS",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "020724WDZ1WYXXB5U01L25",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0206WS683QB9VSJYRTL4GW",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "020784HQWGNGJ507VLA8BG",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0207ND7449S0I4U7EQN92D",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "020274WV79PHY18H8YPB4V",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203W3B7UFL06DAN7KWGKT",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "020171ZMQ3BPUFCP8CZRX5",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02015RY54SO3D0GW6ECHQS",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200A33MTUOUVOSBDKMBJA",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02026HY1HYJEM46175VS3E",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200252H8536DMY01I7QRU",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200WS6AO8PIOUCZNRZDDV",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02000Q7SBLL1WJTWZ1I8SU",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0206DMN6QU9Y6FAMB46U37",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02037LKDK7NZ459NEE32BP",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0205K4X245O8ZN3U16CB1M",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0207DKPDFGDXGYBURWITTS",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0206UANNIPB933W715XQUE",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0205ZRY5VWKCML6A9KQDHJ",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0205MJVYVBAZ7JAQFITKP6",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200PA5RD3MB0WMDT06QND",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02042FFQIDLSR48JLM9XWG",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203NAROYOLJL6VWEZKO6H",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202WNAT7DBDL7GE6KNG23",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02041A9U5JTE3P86W82QAN",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0206Y32UXQFJGBXRB47BKU",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0206RA2MGTFNR9US7XSTT1",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204B236Z5D22JI6PZRI6M",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201O30JTS2XZ59H3NLHM5",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0206X1FVVAV9L6ENTW3DWP",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202SO8NQ7XQYZ0S6ZNDGB",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200SA4G1BV8ZCU3VXFUSM",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202Q1EHHWJRUA9EO0KLNG",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02041D3WVXJE4O6GQSI51D",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02050FMB01S2LI8VFTXWUS",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203ZMM2VGQUIK2PFRHQRP",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202C70E5UC3IQU0LM394J",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204AWXHV3H0CKMN66JI13",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203W5KKWR1S4EGFQNBDDR",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "020206VRXZRDOCRS92LUK1",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0205UAHI1H2KQOMEWDT8XQ",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02059A8FDLRAC2JGGZUH45",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02059S0DOF131I9H7ERJ2D",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200IA8KAFSUFP2U9OHLVE",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02050RFZGCWH0TVY0CDIK8",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204VK4NCH6ZKYYLWTVXST",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02014DYYNF68RQQH1YNW8A",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0206EDDPXC6FNZXZKUBI3H",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203EH5I7KN526LPYDRD12",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02074BISS8LPX3SP8K4V3I",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02058XAO5M7C14UHNNME5M",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0207E452OBQ280SKZB3S9U",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204Y6HJT97VN40HYDOP3N",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200AL3TQA0O0RW13JQOMJ",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201O92FREA49HY79L0OZ4",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02070NWWEF63FWDMO246KP",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200MC8PSL1O6ZRXWFZNCN",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200PFIVBF7Z0J9FVV9FYS",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0206TNLLIYFH3ZYGJOTTIJ",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0205P5ZIHQQPG0J5VG4DZ0",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0207A0IIDCH5ZRU2VFV0MJ",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203KJIUF09JAAD84H6WUA",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0207CBLYMSV06CNV79RZZM",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203RYX8FE2VY5WI5QRGEP",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204APSDKVBACX6MGPWCLP",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0205JUXEV4IOS37ASN681L",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02077PB84R93WZL4NT5T4K",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "020362BJ55MLIZ5M8L537L",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02019L046FM75WPSD6EN23",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0205WF4ELSABT1RWDD1EFD",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02079LDZWRPBLKAI3CARAQ",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202RTNTITDPRL6N2LG10J",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204P5NQLXX57P6RQG4H2H",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02020KXUMBSWNYF8SXVGXB",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200JII5YYSBQ0W6M00FKY",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02010YMVTR229SU557D4AE",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200DSZ13LKVJWBLP5QSKD",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202XPRAA2V18CMZ0T12FS",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02032MKSHQW0PIUWVAXFV9",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200L3WCNJIVOM0L1579YM",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202SVOIU4L1EWDO8TVP4D",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0206MCVCFWBWXGA07NO6TE",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02046GU029TAAXKPAB4353",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0205PUJ6EHHT7ZKVYNPX1T",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204YA7SG69UJTVBX07B72",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0206KNKTJM8FGABHWK9HWY",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204GQFFK92ZOB8T96WUDX",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202P9C2JDB8EJY5JTQ2FR",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202M3FLN7YYRF7RLV6XRG",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201SANH7JC07F4ZBKTFPO",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0205V8SH18DJFPZK74KLOI",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201MI6VRXQKKZ2GTWUGAX",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203HCTQZKRR8W3P963JGQ",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204WFOHJCI5313OOQ6LWN",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201O1XITTWPREUF41A3D1",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02016KO8LN25D649J2NNE1",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0205J43EX4O4GX3K16B3VV",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201KJ3SOHLNN6VSWQT7P4",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02062OOY1QNSOHQFX5T3L5",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204RK459QSVEXATQVTB2Y",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0206Q0NZH4TW30035Y8HK4",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02024FEMI8H4B4G1A3SR6A",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02010BKI57B9WXHYUSTPNZ",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201GWRS9EEIRT9R9APM97",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0205F4SEWPGS8YA2V0515V",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203WI0IN63TGR6MYGM1F7",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02062NAC5ESRJ3PSRVZL1G",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204O5JF4049NCOJWLPAJW",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202O4DFT2I1N1RRRK7VJU",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0205SDOE83ID0UNGOM414C",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204I1Q9IUTDM98KE1GWJ6",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201B93ZHCJPOAYTIDOY09",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0207FRXG2KS12LWW5F9A2Q",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201JG825NVUPLE80LNOMY",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200WCOWXMP4NZ2PHLGX6N",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204C5UXXS5G8K19YSK9JA",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "020470VFPYAOWE15LB0E0X",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0205H3J54AYQ6TFK6EXU3I",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200TVVYHJN1X6SE80PILR",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "020376FE1ROHTZ82D0T0X9",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0207HA4EQ85RQCED2PY3VD",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204YCBG4RVDY01P53TE91",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203AD7KPSNSCW0UTDEWQN",
+      "ZONING_CATEGORY": "",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201YREI6ER9A5PBX9CDIQ",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201X75JOJ3H2SFBXE9RJX",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203KHSSLP1DNJWFHEYQON",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200O8JHGYI131WUGE4K97",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201MTNAQAI3T6ZAEGHZDH",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203KERQ67UUTECY0NXCAG",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202BGC4RNEWYHTJOE7X22",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202T6VK1LRYBI008P8N1D",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201E3URWFDUWN5LJ07WR4",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "020274NCW5VL27TPW4FL97",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203J0T1DIBHB79G6OEGQO",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02003Y16KZXOI5T52UKLFD",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202Y7D23R97G6OEIOVK1E",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02053ENXXF6FLEBEYXCR3T",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0207EGBE10ADQGEQ43436Q",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02077FFZJGWU6I6738JH4I",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200B341GZZ2XJS9VDCZNR",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200LDJYO2X7SHLNLHW97K",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202TCWKVEQHSMXEZW1BTW",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0206FMZJOO0BUKR9I1CIJL",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0206JV0MK89FJDMS4IL9E7",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203TQ0V0BF7B5OLWTGXLV",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0207MOJX2HJM3T2R9DGJV6",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204QUQ3IZTEM2WBZ3PIQR",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02002OGSKD67TF46N3SZMH",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203ZXVA1AJB6I2K9K5MBF",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202NA86PBC6H9NM5KXWLF",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201N2HADNH0TRFDKTNA0W",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02011V0XN7VXPE999JH5XH",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202XV4TB7OUPIN92G0AUC",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0206KOLHE9U8S5BO6RHFRA",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0205MKGZXGX1564T68C8Y6",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200SLKR07IJ0HG4UI6CPP",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "020423SEJFQHFUFTINWSBN",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204B3PSKWSJDD2VZ3FE4Z",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200MWEHQC048DIEZDGGVM",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02051QZWI10RFSCPCQAGO9",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204PCSK510SDTFSGPGMOG",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0206R6H8DE4NFXIURYE28E",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203F4EO8SJWVR5L65F5EH",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202EEOXWGYP6O7RY6VV5E",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0206WAWHWGTRKPN6ZQKK1L",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02049AQQ2QJYWODYNUUCBT",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200HSNKFA2A7F5LQK6V7P",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02037848R546H8FPI0H3IF",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200QYY4GWKXXTMMB1IFVG",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203YN9AHVQJV1Z0GA2D8P",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "020744PDEGKFTDW60SPJWP",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201HD18DHE5HEM9XIDYWL",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201OFTIB9M8K6RQDD9IED",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "020438ZTGIKH8O6A40PJMR",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02015FYGUJ7B0BCVGAPEP4",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "020210234GHV9PPM3ZMUF9",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0207C4WO4L9TKPN6WYLKXG",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0207H8WDSWM2AVED8GIJHR",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02073IUAU7F78ZES8YL34X",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204SM0QCZVQE8VMYXBG7Y",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0206XHFT6A2W7YSANPBXRV",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200GCGNSVB7RG4JIVAK9M",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0205BTWK4ZSLBCQLVBLLR2",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02039C3IGJR2YCHVCYRH4S",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0207J3L8IYH7JF6IHDTS4H",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203YP47UCSFT52JPNND5L",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02036LM6ZY1SE68ODGXA0H",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02046B965KD5T20H2SCW6B",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204MLRGMXLJQIFIQTLZCA",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02034BJI5H6YZDYH1IABP7",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202UANUECTGB7B31I0O90",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "020234F6TLFUTFTKME66WT",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201ULKI2WGZP67JO4M8TB",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0205HS2H5DDEEDCPR9MY2Q",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0205G1WT3PS1IX81076THZ",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02062TCL3MVTFK9SR8J4BH",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201KF43JV3B50GJCI8R07",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02032CGZ7MFEKTN0KPDPM3",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200KLCQ8645LEERV3GFXD",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02023H6UGAVL9X2O98IDUF",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02045X6HINMJ9D6KQQXR28",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204A0HICHBNBSP2PCJUWZ",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0207D62WUHTH6RUC8MNCCG",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203SZ7Y0XXOUOJGM7CKNQ",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0205P1PCPMVB4PEAF4YW76",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02034QK7PAD9W8BEG6NQE1",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203PVU1EQ73OFT17Q33JQ",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "020495961045MOT23GUOUS",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202QGYHF26ADLCIYDYGFZ",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0205HOHF22GMBHHUDCBNGO",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0205KX58F6L4GMUQG7YP6V",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0206TKEDQIBO85RPXZ0RIT",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204C9ZOE2M4O85SBLS98B",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201VTI6V97VL51C66JTV3",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0205Y7J468S45BLFYFJ2UC",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202IQKBR8UHY7Y69A9K0D",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02068V2TYEOHKBEUO6MBYP",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02013IVQTWLU3HJIFP0L5Q",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201GPCZIGHGHUYG2QWL28",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200Z3DT8HH2ESX9EVRFAQ",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02074MQZVGNFDA3ZER43QI",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02077X0T0OGHMR4FIVUA26",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0205ZZCMB1FNMM7VCRKA7J",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02048C53VNS73VUUS9TH4B",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202AV0EZD55TGKQL89AR1",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200Y339056ABED842SLVY",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02031LAX34QVDPWBUJ3URU",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200MPNN7J2B0Q8QG0M3IV",
+      "ZONING_CATEGORY": "",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201UL9FC1NWHP03U4SCPG",
+      "ZONING_CATEGORY": "COMMERCIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02058BZ1ISY59X7EEXIE7S",
+      "ZONING_CATEGORY": "COMMERCIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202H55ZR9AGIUEJEM4OI5",
+      "ZONING_CATEGORY": "COMMERCIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204LZUF5K8F6459GV87R6",
+      "ZONING_CATEGORY": "COMMERCIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02031K7MR8AOGE71AJFB2K",
+      "ZONING_CATEGORY": "COMMERCIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02047ATM2Z6M1POH0WAYW1",
+      "ZONING_CATEGORY": "COMMERCIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203FPRZOQTQJ5FXAWLJP5",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200DHEG1VD1SQ7QHZA6J8",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201QY3GNYQGW8PI1MJMHX",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202FPAGNVEPZWU59E9BTM",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202KLZM2KXPNXWENREPRK",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02065H14EHTIGHZIRZNHNW",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203P9ERYLBOTM4E967SMD",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204J7LEZ9DKE9Q2WHKAV2",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204X5XA9FQYEXI53RTXIY",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201RH2WC6AG6AZVN5MJLS",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200CBM7EXM3KUX976UXW6",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02069FQ0SCVJ2KAKO6J2HI",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201YQF5N4TAUP9UJUQEHJ",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202UYX18A2VS0EXTW99JW",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02074U3PX7LLRWCRE8MDW4",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02025AWV5FE53PE71US4TX",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203RL4VBM91Y5XUZ8LTNS",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204KAURS0YG6TRDJ31UH4",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200T349G7D9VQUY7JD9D2",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202J3S3B5LW49KYUR7WWX",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0207EZXP06BGE0HYNT1G17",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203OLE40DTHFI61LUMOF4",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204VGB2WWI5LAMHDRI61P",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204M33JA0G6EWQAJNH0SE",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203LGXG8V5KFOOAH7L412",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203XZZVLFHDHMJKCZAX0X",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "020505TV4CRCSJYTU2LKZ4",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204V7NIFWWR136QN43PMI",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204S6MLYICWDLF1O78UJ9",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204QECG2LLMOYMEWPEJ8U",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204FCJ3BLSEP57LB1AN22",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0205VLJO2VM4MN8SD6KSOW",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203MHIC86S0A8VW10OZM6",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202Z6SOQ3BE0C7ODQXOQA",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02019JM2JKPZWE22FMWFRL",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0206O9TSWOEXX9I1L8BGRH",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0205SPTUXS8HGF426DYTK0",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200ZCU5ZS4U8692KLLMMO",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201VCFOB7NVL0DDJ7XYAC",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204ESDVQ925STA3XDRP3U",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02055KOKAEBI45T2CGSD2Q",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02061YSP6TP1XJOWBY3KPC",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201CYQXOW8P14IKCGKDVQ",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203UOW04AC7V7BSTCXTJO",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202JH87DJTWSHUV6KXN3X",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02000OKLTU4LIBA72GFKQR",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200WO8OS8KF0ZIGXIIQ6C",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0205D2SAM7VGJD234ZGZSQ",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "020304IQJ1J4MQG6MNIWNO",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200CB72DPXWX17A1W0B3G",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02029DJWZCPXKRO6MKZE9D",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02072Z8XAWOS1MA8XBDVJV",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0206V11CPICJI7F3VJ50G7",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200M0XL48417L2QY8Y0CW",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0205MTLNMDQM03IZOGB3RB",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201L59A9RDLAPF0D7HNTE",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02005UA46CPYSLKRLUUEU1",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202ISV9DU0IBN1S2L34YW",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0206B3TPRLT19VVCORS8EJ",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "020355MRHVUIYASV3U4O92",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02065JW4NH6TPA8O45EHEF",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0206FHWFX1FJM0IC6PFB51",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203R7EJI5UENAHUDKH0DY",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0206JS27MJSIMG492B64C3",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02017HH0VC9K3GIWROI15Q",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204IOIIKMP7VI5KX619PV",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202DCZOX7XL25O3XU7KRQ",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02075Q1NRDS07B2WIEZMRT",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "020256K5ODR38ODDLJTXUX",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0205P3FUJOT1MMWX54Q3ZS",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202FDFSSF744ZLUJECEE3",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203AUZBTV13IR1OF432VK",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0205JIICWV9YEBD6GRAAIW",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02066RLLH58A9I8120XEUN",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204MKFHJ0SML0R2FMI62Y",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0206USP0SQ29OO4PODGBHG",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02075S54KISQ50CWWRLKPG",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203JC9SRRGKCJK0YODZ28",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0205OPCP2T6EKDG6N39HI0",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02014QY4AMB1CVUFANOLMN",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0207N4X5LA39DLJHLG1SLN",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201GXZ89U5837MZ3RP37Q",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "020613YSCS6DRR4UH8C6R7",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203EFE11LNMOMD2I7S7UD",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02029H8G6K81324UJUUMTA",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200D5CVI5NPIR7H9H2I72",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202PGDQN2G94WTNYMMG8Q",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204H879V1FX5B0HA0CYPN",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200HDJKY9M0CLS3FRCTM2",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201LUK6O08KC0WUSYL4OY",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200BIVK1M11ZR34IDJX4C",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200X78S2AYIZ5MZ896JNW",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0207K7209LP9C7F4AQZIQV",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201IVI7JT34AK7SQMHYAE",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02027R3XSDD9CRKSOHW3L6",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203U80P4GNJMYK72ITTLL",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "020573CY7GNE10ZW83J5AT",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02003603Q91PZ0ZSB8NYRW",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204FKOQKYMJ0WVNKKS2X9",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02064VWXWDT1YR4Q6VTTFE",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200EXW0SY6C136XSMAVGO",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0206M8KXND3997PU3MLBN8",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202HKE638GEFLOY5H3WU6",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02077XKHLTQC6CE6IVJGWV",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201RFCGWAXCMU5TG0VM4S",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0205INZULI68C0T2FAQQ14",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203KDN9SK3T4C6JPCGN5L",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200FHAU5D1R753HV7VUC7",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0205SXPCWQQ89XI544YRU4",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0207OIU35T1ROQCOM1K0FI",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201FHCTLV7GJH0BQNZJJ8",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200F5YMMROBRF8L80XJ9O",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201PQ6629L5WR7AE0J4WF",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203O2S0ZRPES1AH1TVN0C",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203014PG4UQOX6SJGHWWG",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0205G6LGS2QAX8FHHH9LGH",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202L506FEIW59TK8MIVKR",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02070RNJA0SYLDDK865PJI",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "020374A72XHTYJJ3FKRTHA",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0205J2TP674MSETJEBUO2Y",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201HX6Y24V2Q3HDYODHFG",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203DKIU6DV7DIM36JYM7A",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204DQASPHNBGI4YRAVBZ6",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203CMMBB7VIMHB2SKM6H0",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0205WRGPX6R2RWG83411BG",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202IFC19NIT39R9D86Z3F",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0205ZKJIHXVXGGEJTERZVW",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203AZQMLWAC8KBFB2UJBV",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201SXUDHX1HA35648EXQ0",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204F8XYOJ11S0IN4DUZLY",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202BS3I8SCIMRJ2T09WEK",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02066A6873RDGFFNXUFA7L",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201O8EU2SI0SBK6XZTUK7",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02009WKJTQ9GMRBJK2S3ZQ",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202TJ19ODODJJ0DKLT8TT",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02007562TT4PNQT5BYHU1C",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02048IRRFGE21EPXYH2FZE",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0206XWF5RAOCKQXCA5TMZE",
+      "ZONING_CATEGORY": "",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201H6ADRJV7L2P3QSCP4S",
+      "ZONING_CATEGORY": "COMMERCIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02054O5ZSNE60T6321R0B8",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02021NEGXYQ45QMES28NPE",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202U81UTV1NUWD0PKR8SA",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201378SCKQ28ONH84BSXH",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0206QA4DIN1OFUVYNHYB41",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02065RDBFBQV5JZ10CXOK7",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203YJHO05GV7QYTH6XNKL",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201U5J6JGODFGV7K9O348",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201PIDY9QGIQERX6AAO6L",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "020484BDJ4C8EDZNMQZBE4",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02003FHDUJNZUU5A0G9VSV",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0206U0P84EU4TUPSPOTV23",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02058CYACJGSSL4F7KS4ET",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200R71W9ZPPW24BJGUJJN",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200FACPXYJEMX4C2KUSE8",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "020397RYBEQ5ILHDP5PXNM",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02077TIE6CUWM5ODB0GBRF",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0206IQ6J4VCCJRFJ3ZJ97Q",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02060MHLPYM4A3QNH2HCDJ",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02029L91GBW1JI5UR5VTTJ",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02026PLFOOF4AW344HS7QE",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204QKHMGIOHQY6VO6LAQA",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02025X5S69YYOZ9ZTXMJZ4",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200CCBIBCVX4KK6O290TM",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02012BU2TJJ8U0BF8UV11T",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201Z6RPASVULCO76UKUK0",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200BVH226LRVPRKT23JQT",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0206FD56IHDBSX34QBQRHY",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02064XGAS0W57E1VDUAB6N",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202OZAMWPXR624HEQBXF4",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0206ANW1SBGS95Z21BF8SD",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201JK7XQ2HO0YPKJSLJQT",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "020010MWWA87GXS89NIVIB",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02079YOAYBO9PUPK4NIMBB",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "020046HKMGA3XCFXQXKVJ7",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02031EC9ON5Z96D1K3K48P",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201N7YAHIB8DJD0F8N0E7",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204D5PYP8LQQ1LG8NU8HR",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202OMIR5X97LZ25APGN1Z",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200I484PMQ8BNQ7CPA7JT",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0206DMAEGEY4MR9LE6MCBN",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201I5N1R1941E51WNB2VP",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0206NLC7ZQQI55UA4SH5N8",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0206GU7E9R4KRB37FZ3AR4",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202TUTNXRUK9X8B9EGA9V",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0205GZ06T7QPZUPXWIBA7C",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201WGZX3DJ0NB3NUWIHYO",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204ZV20AMJ9UUKD7Y5QXX",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202OH86I7QMXEEOLIRW0T",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02022US20FM9YLVF3ND7JT",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202FUSNYOWKSG2JORM1ZR",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201E9JV44D218HL0DR54P",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02065ND5DGB7PEJW7Q0ATC",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0206DSI9FBPV1AQSQ7KRFZ",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202R8HJ51G7NFK38TWQ7R",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02079LAEMEGXAMZNPYLDOK",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "020564JQGN1R2JP9F90S02",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203DFS0DNUS0E3RJW0EQO",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02044FUL1UVG6VRULEEEYE",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201JCEPN5UVIJ17O8PG6I",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0205KLBKH0YX5FIZKWONCZ",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0205PNKZV3GJ7J34YBUXW9",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0205KR9IXVV2WK00PG0TQC",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202HQK6DJP111PECZTNUI",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201CZUCMTEBKIN0XODCUF",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02068JSJ0BA7Z84UMTF96S",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02012PV8OO0OZ4A40N91JO",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02065PEXHJB7S9RU654WZU",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201DQL1CROSP647SRMMFF",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02022VFEQ66E6ORQKU7BCW",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02074EPR60KIBF8XD983S3",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202YEW6R17Q19W7B015VV",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "020335XHJYR9ZQ6GVOJ0KI",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0205HTVHPIBEWHLDA2X1HC",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02043WWUNTZZF4GT17UV0L",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "020473IM77UDZJFRS31HKD",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202TWYIVIH1XYLVPHOCU3",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02048RAN22OKGULRIC7B0O",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203PD0YCQVV5H9LGW484U",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201NJFEMD6MR1MM6FAQEB",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202YUMJBFFID6AEY9J4PY",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02074IQJZLFR9AI9QE32E7",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200E54LDIZQEUTM5A5IRM",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204OSV4JD5APSZTG1JP1I",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02028D0Z3KJXUR0EQ1AB04",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202Y6J8TW9EIYUZKHPVFV",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203YD8C1D7FNJOZ101Z0V",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02019WK1SYJARFENRTQ61L",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200OA3DMUWHZ3R26M0F9N",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0206TN4NQ3MKJJOR71VP2R",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203IHNC2RJAAGWYC1E5UT",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201GACIL1DIL7J1W11Q80",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203P6FULEB36QDHEQABSJ",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202Z5C8IICQE85UEA8YMT",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0205H9LT6NL1665CNVATAP",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "020321IVSGJ3FM15DIM7FM",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201VNKYDORFWUNR4BXLG1",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202FKPG3MR7EPKB8JUJ8O",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200Z72F0KABAH90RCUL8N",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0205B4B8JDE6TBZMXUKRM1",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202H5U0QLEARAQNZZ1Q73",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203TO3VAQHAT67UXYX1UT",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02071OFQYS7ELFP0MC1IJP",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02063J4EN9RDM68RH1JE4L",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202EYDHVVJIQACLID3BBI",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201NJXENQS3SX5JHUI2OT",
+      "ZONING_CATEGORY": "UNKNOWN",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200VXB9I55RK743V13WLY",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204JCB0GEIZG2OXE8RSVM",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200QFB7HPMY9WX05ENCW8",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201ON7F7BBMKQC8XW4WK3",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0206I303V6M3D9VZ0S4Q72",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02077WUAOPGJ3CXGQYMLGB",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201VPNZLYQBK922BQQLQU",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0205W0XUB877GL8NYRDS4U",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201KT715XF0RL6XSN856L",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0205H47YT5CSY5A5JRA4DH",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "020015LYTCA5DU764DYGI4",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0205LADBHNR1Q4ZJD2BNU5",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202URQ89ANZRNPSN3VTBI",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02029J6SPLUMYVA7VZRMYK",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02014MESAB90KDZU46FT6C",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204OTURHHWIULN26ITNRP",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "020027FL3M5XGGKV5F3ZC7",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203PQBHR2KFG2CIB86HD9",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203ROUS8GWY49VXJ7MEJB",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "020043UWOVWAO42LETL3C6",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203XGFC53I8CMLBBCJR4E",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "020357C6SURU9NRR9AGHTG",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203UTRTOTP7U93VCW7PAV",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204RMLICB10P3YZJP0L6J",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202PGAOAFYK84ULBCNB76",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200GUOLE0FK0DACCIQ98F",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "020416SS2QIP26ADYEDELO",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203ECEHP4DCN54376PSCZ",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02025BEL52IBXZ8WV8TINO",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204K68UYZBZMH3VXX5VAV",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202AMOEFFVNIMGQ4470ZI",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204ZMJ0WNZKDYMWRKO36W",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200VH4HQSUUROPLOXHGHD",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200DYAXBW511AS48C4XL8",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204D2BXJ59KS53J307DLX",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02056UE2FWZCJZDHQ3YTLV",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204D395G2PBKVIQT696Q4",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02040XIXP7LI462K1LRZCB",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02006EUN5FLITFFS3QH0FN",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201AL17DEWMVUONMGLJSW",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02034ESWCPNYUJV7UHXWIW",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203VPJMOPC793WIPT67LL",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204UYOAIRMRW97BL2A8A2",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200MSU9KC6WGXPPSQ7RNV",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201D0H6OZXLGTD09WRNLT",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201BDLPRBA40WP4IWLK7A",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201YA6RGGERW2LALKL2QU",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0207EJNCOYA1U1LA0EQ97K",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02065BGHIU8LT5B8JD7SR6",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204IOX5LPORGL00JZHQ08",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0207NQQC6AB5G6SYOVMM7I",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204DDKERL4NV1BRBAUHEQ",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200AO75BXOO4RF84ICZZX",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02042N30DVV6SSYDO5EIE4",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200LO1B893IIDR3521LS0",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02019A6B7DM343CBX0I6XF",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204T1OBYGZALJAT05U1XS",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0207BHGLFBISY1SQX6ZHCT",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02013JN1K66GUS0W74SM5O",
+      "ZONING_CATEGORY": "",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204CIJK0HW5BD14C5TGA8",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02055OTUDMP011OA8HHLQG",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203OD1D9LBMV67XB6MH4H",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0206WXVASRP2AFVJDFT2V4",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0207MQ8MG7H1QKEEQC0NI6",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201BBH39N3VMZ0DFPFY5N",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02052Y8NW9HXXTWZ5Q1WKB",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "020035SV282TQA5V74SOFX",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204PL0034AU8I8W6X2T1X",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0206JZ21W7HDCX48LOA0G3",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201R0QRFJVFQBDCYO6CT9",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0207D4ZEIF4TY7WOAZS759",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0206FT4I5A02442CY2PYWQ",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202QHA5TYPE1HCG3FPUFT",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0205C6AYT1B1O29Y61T2FC",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203FE2AFJ93G8C6WZ6PK3",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201E3J0B40A3K46AGR0JL",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02054FFE7E3HN0LCRDJ3NQ",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204R1RPZZ6WZITY3W6WNB",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "020726BSMO5KMMWQJ6KXRO",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02067RVEZRZ8S02AV3ZJEG",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200YHQUY7H3RW2A4DNFR1",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "020471B6YTQXXACZ944U97",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204NYAX8LZBCFBA5E744F",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203V0VCSN8H6BGD9XAQ2N",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204N4FMMAR6F6UU6Y26J7",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02020Y2Y68G6PAWBXPAXB3",
+      "ZONING_CATEGORY": "",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02070IBVVEC5VQJISQLSOD",
+      "ZONING_CATEGORY": "COMMERCIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02074STY81MSNFD0F4TU33",
+      "ZONING_CATEGORY": "COMMERCIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0205OLHR3W7VI5MOWVJOV5",
+      "ZONING_CATEGORY": "COMMERCIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02007CPILQY7N4FU731XCE",
+      "ZONING_CATEGORY": "COMMERCIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202TUB9MU4F72KK07ZRHA",
+      "ZONING_CATEGORY": "COMMERCIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203ZOINWFXHDURP2SHW83",
+      "ZONING_CATEGORY": "COMMERCIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02024QKWBB26R6FF70HG8G",
+      "ZONING_CATEGORY": "COMMERCIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02010OA56YTSQ7GFFR39XB",
+      "ZONING_CATEGORY": "COMMERCIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202ZQ1OX7YPV41SKB6DFB",
+      "ZONING_CATEGORY": "COMMERCIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02023Y5Y2HZLRA18COM571",
+      "ZONING_CATEGORY": "COMMERCIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0205DHN0WG5DEIX397YEFD",
+      "ZONING_CATEGORY": "COMMERCIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0206KKJ5NOFE08059346HP",
+      "ZONING_CATEGORY": "COMMERCIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "020590YTW0GNO1Q7PZGNTL",
+      "ZONING_CATEGORY": "COMMERCIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201QWOWBR4FR21UGW3AKD",
+      "ZONING_CATEGORY": "COMMERCIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "020588PQ3ZAB9HLTPWUGW7",
+      "ZONING_CATEGORY": "COMMERCIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203YKJJCEC0OQYV5XWHSV",
+      "ZONING_CATEGORY": "COMMERCIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0206ROETXAZ7NH6R99UKE6",
+      "ZONING_CATEGORY": "COMMERCIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02057DCE6LIZ1WS68QCJQP",
+      "ZONING_CATEGORY": "COMMERCIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202F1HWA8OI4BUJI7TDCH",
+      "ZONING_CATEGORY": "COMMERCIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0207AJGK7OA4YT29EM5CY8",
+      "ZONING_CATEGORY": "COMMERCIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02029TVFS6NYX6HHMJNNL3",
+      "ZONING_CATEGORY": "COMMERCIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203J9WGMMQSUFDYESJ5Y0",
+      "ZONING_CATEGORY": "COMMERCIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02043N6ED5T1XB63BHYM5Y",
+      "ZONING_CATEGORY": "COMMERCIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200P95ALKAN9II2FK0UZR",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201DST7T1ERFOGDK208W4",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201GW202GFW1DBBLBNG6F",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203PMC71Q7M46XCLFNG8W",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201YDT1HWDYZPBCHBJK79",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203FMY9MZ29LHE7ZPIFHM",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201UHXNM54ZSNP5NHJ84A",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202NL90YITLTUTSR8VZ77",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0205ZTG6KL806KX53W0GEV",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202APH6R3UCTCJE8UHAUI",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02072836JUW9CNRN2QAZJH",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0207B2QQTZ1HL9VQKSJVII",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204PYVKTU4BMUZ1RZ1FXF",
+      "ZONING_CATEGORY": "INDUSTRIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02001VY1UTKURF9WQU6SZS",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0206CKQH2S77V537E2FPTM",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202FQZSC2RCXMDGW86QYV",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203CCV2PWMTXVJ4Z8LF1A",
+      "ZONING_CATEGORY": "MIXED USE",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200NPLPGW6O2BX347A5C6",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0205UY9P14E1A0HTU74YKM",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0206P0IK348TAPHBGMBS7F",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02027DW77ARUQ1MXMK6JOU",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201K5ADF1LQEPK9MZAD23",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02009J0YH680JDX1JAOBPT",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02070EJWUR9SSCAGH4R0BE",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02018YGE4O6JZWG9I58RVJ",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0206WQCVETAWSTLO8JDB9H",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0207ALMJ6W743CWZOHSOGQ",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204BZYZCUMF30WVHQRLCP",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200LIWYHHHAAHOO29MRCP",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203048YWWPVE3HQBX596K",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0206N6YIMYNBDCO95E5TT3",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0205UWT4IVYM1CS5HTC9P8",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204B10OKHB4FC6066VTBA",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02070QF7MRIJF6E528XRD7",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201WLTGU2V28OFDAP9A9W",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203BNW82MV9STIX9RHLHW",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203BMZY2IAR4YPAR1P5E9",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204Z4FLNM5ROT674JDO1F",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0205F552Z5XYRQE23VHHV8",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02055Z5JDM2AUSA3UY0VG3",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202GCN9FLIARIOR5TL6HW",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203K9VWRCW920GSKXQQEX",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02000758ISVJYNDYI6JBKG",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0206VMCNF4687WF6O54XOJ",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0205B2ITMPN2T5NMWF61I9",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0206WWU9YT8U8QG37WCFO1",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0205MSDTC33NKAJF4UC30M",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0207066MQ3YUF2CT4WN7LO",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "020014J05N0T3OPOYW8B7Q",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0205RN42VOM18EBIEDGCAT",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203506M0DH5HWN75VZJ0V",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204K5AG8YJCMYDB6J8XA3",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202VD9BF3135302GGELO7",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0206BAF7L96RGR2A4S1ZQP",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0207JGRFO1SIUX3LQNFWPP",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200GACBD9WJ4KO99VY3ST",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02042X3TKXFYM5I686LY9E",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203SP77AN52OGC3XM8FSS",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201FIHYHJ7O60FOUEANR0",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201WZMNDBA1CHEVP0NT53",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201XNM7LZKJYY5R19DNNQ",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200SO166OO9N4XNBKXNB1",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02065FGVMOGOO6LOV7V3L8",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201KFSQ1EEKFD8O796DVJ",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203JW80SU9NB8PK47WKZ8",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02006SULZTU1BQSTRYXT5B",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "020569LR1BGWDQ2UF3UTCR",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02021D5QZ424EYJI69NFPX",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0203QEK8NNPICHXOTBYUN5",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0206ZLNW5UXWCILROIPBIX",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200I8IGJI1DOIT768M8R0",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202E6V9GTOETRTF582QLP",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02008O34MRKU7AWDX5HHT4",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02051A4D5DSETXE037SM4W",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0205TR95WE1CZ44IZ1CPE6",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0207A3H5W3USOBZL08ZPP8",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201LQ6ZLO2L213S14OC5Y",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02016637XV4955UVGFOT57",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0202C0F0KRX5A2R29L1TYM",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0206XA0ZN90KMCRUQFSJEY",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0200UWUEP7EPLSVMILJ7H6",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0204W3RCOI7ZXBSK9SBARL",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02023ZR428FWHJ72P8WCGQ",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02006WRNEZ27AQ9G3PTP1T",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02051O8S985YZ0TC9ZS7AW",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0206PMVYYKNDUD4YW7405B",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02043YHJJG4MFUQPSRMD4E",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0201HP8I4G09S20BMOWQPE",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "0205XL9OBSH2W7UR7LNQ2X",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02033GKU8OSQLHZO83U1B0",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    },
+    {
+      "PARCEL_LID": "02042S5XJKATBTXYLQJWCB",
+      "ZONING_CATEGORY": "RESIDENTIAL",
+      "_SIMPLIFIED": "False"
+    }
+  ]

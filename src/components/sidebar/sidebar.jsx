@@ -27,18 +27,18 @@ const Select = dynamic(() => import("react-select"), { ssr: false });
 // Sample address list (replace with real data if needed)
 
 const addressOptions = [
-  { value: {lat:44.976,lng:-93.2719,address:"701 NICOLLET MALL, MINNEAPOLIS, MN 55402"}, label: "701 NICOLLET MALL, MINNEAPOLIS, MN 55402" },
-  { value: {lat:41.4378,lng:-81.6852,address:"456 Park Ave"}, label: "456 Park Ave" },
+  { value: {lat:35.1414401,lng:-80.9211991,address:"The Edison Arrowood"}, label: "The Edison Arrowood" },
+ 
 ];
 
 export default function Sidebar({ filters, setFilters,category,selectedAddress,setSelectedAddress }) {
   const [open, setOpen] = useState(true);
 
-  const toggleFilter = (cat) => {
+  const toggleFilter = (catName) => {
     setFilters(
-      filters?.some((f) => f.name === cat?.name)
-      ? filters.filter((f) => f.name !== cat?.name)
-      : [...filters, cat]
+      filters.includes(catName)
+      ? filters.filter((name) => name !== catName)
+      : [...filters, catName]
     );
   };
 
@@ -133,11 +133,11 @@ export default function Sidebar({ filters, setFilters,category,selectedAddress,s
             Zoning
           </Typography>
           <List sx={{ maxHeight: "calc(100vh - 200px)", overflowY: "auto" }}>
-            {category.sort((a, b) => a.name.localeCompare(b.name)).map((cat, index) => {
-              const { background, text } = getColor(cat.name);
+            {category.map((cat, index) => {
+              const { background, text } = getColor(cat);
               return (
                 <ListItem
-                  key={cat?.name + index}
+                  key={cat+ index}
                   onClick={() => toggleFilter(cat)}
                   sx={{
                     borderRadius: 1.5,
@@ -149,13 +149,12 @@ export default function Sidebar({ filters, setFilters,category,selectedAddress,s
                 >
                   <Checkbox
                     edge="start"
-                    checked={filters?.some((f) => f.name === cat.name)}
+                    checked={filters?.includes(cat)}
                     tabIndex={-1}
                     disableRipple
                   />
                   <ListItemText
-                    primary={cat?.name
-                      .toLowerCase()
+                    primary={cat?.toLowerCase()
                       .replace(/_/g, " ")
                       .replace(/(?:^|\s)\S/g, function (a) {
                         return a.toUpperCase();
