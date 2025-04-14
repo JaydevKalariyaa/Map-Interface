@@ -18,7 +18,8 @@ import DownloadIcon from "@mui/icons-material/Download";
 import CloseIcon from "@mui/icons-material/Close";
 import LocationOnIcon from "@mui/icons-material/LocationOn";
 import { useState } from "react";
-
+import BusinessIcon from "@mui/icons-material/Business";
+import InfoIcon from "@mui/icons-material/Info";
 export default function ParcelPopupCard({ feature, setSelectedFeature }) {
   const [drawerOpen, setDrawerOpen] = useState(false);
   const [tabIndex, setTabIndex] = useState(0);
@@ -78,60 +79,104 @@ export default function ParcelPopupCard({ feature, setSelectedFeature }) {
     <>
       <Card
         sx={{
-          width: { xs: "90vw", sm: 800 },
-          maxHeight: "90vh",
-          boxShadow: 6,
-          borderRadius: 3,
+          width: { xs: "90vw", sm: 500 },
+          maxHeight: "85vh",
+          boxShadow: "0 8px 32px rgba(0, 0, 0, 0.15)",
+          borderRadius: 4,
           overflowY: "auto",
           position: "relative",
+          transition: "all 0.3s ease",
         }}
       >
+        {/* Close Button */}
         <IconButton
           sx={{
             position: "absolute",
-            top: 10,
-            right: 10,
-            zIndex: 2,
-            backgroundColor: "#fff",
+            top: 16,
+            right: 16,
+            zIndex: 10,
+            backgroundColor: "rgba(255, 255, 255, 0.9)",
+            boxShadow: "0 2px 8px rgba(0, 0, 0, 0.15)",
+            width: 36,
+            height: 36,
+            "&:hover": {
+              backgroundColor: "rgba(255, 255, 255, 1)",
+              transform: "scale(1.05)",
+            },
+            transition: "all 0.2s ease",
           }}
           onClick={() => setSelectedFeature(null)}
         >
-          <CloseIcon />
+          <CloseIcon fontSize="small" />
         </IconButton>
 
+        {/* Property Image */}
         <CardMedia
           component="div"
           sx={{
-            height: 300,
-            backgroundImage: `url("https://maps.googleapis.com/maps/api/streetview?location=${encodeURIComponent(
-              SITE_ADDR
-            )}&size=960x720&key=${
+            height: 220,
+            backgroundImage: `
+        linear-gradient(to bottom, rgba(0,0,0,0) 60%, rgba(0,0,0,0.7) 100%),
+        url("https://maps.googleapis.com/maps/api/streetview?location=${encodeURIComponent(
+          SITE_ADDR
+        )}&size=960x720&key=${
               process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY
-            }&source=outdoor")`,
+            }&source=outdoor")
+      `,
             backgroundSize: "cover",
             backgroundPosition: "center",
-            borderTopLeftRadius: 12,
-            borderTopRightRadius: 12,
-            opacity: 0.85,
+            borderTopLeftRadius: 16,
+            borderTopRightRadius: 16,
           }}
         />
 
-        <CardContent>
-          <Typography variant="h6" fontWeight={700}>
+        {/* Content Area */}
+        <CardContent sx={{ p: 3 }}>
+          {/* Property Information */}
+          <Typography variant="h5" fontWeight={700} sx={{ mb: 1 }}>
             Property: {SITE_ADDR}
           </Typography>
-          <Typography variant="subtitle1" color="text.secondary">
-            {MAIL_ADDR}
-          </Typography>
-          <Typography variant="subtitle2" color="text.secondary" mt={1}>
-            Owner: {ownerNames}
-          </Typography>
 
-          <Divider sx={{ my: 2 }} />
+          <Box sx={{ display: "flex", alignItems: "center", mb: 1 }}>
+            <LocationOnIcon
+              sx={{ color: "text.secondary", mr: 1, fontSize: 20 }}
+            />
+            <Typography variant="body1" color="text.secondary">
+              {MAIL_ADDR}
+            </Typography>
+          </Box>
 
-          <Button variant="outlined" onClick={() => setDrawerOpen(true)}>
-            View More
-          </Button>
+          <Box sx={{ display: "flex", alignItems: "center", mb: 2 }}>
+            <BusinessIcon
+              sx={{ color: "text.secondary", mr: 1, fontSize: 20 }}
+            />
+            <Typography variant="body2" color="text.secondary">
+              Owner: {ownerNames}
+            </Typography>
+          </Box>
+
+          <Divider sx={{ my: 2.5 }} />
+
+          {/* Action Buttons */}
+          <Box sx={{ display: "flex", justifyContent: "space-between", mt: 2 }}>
+            <Button
+              variant="contained"
+              color="primary"
+              // startIcon={<InfoIcon />}
+              sx={{
+                borderRadius: 2,
+                px: 3,
+                py: 1,
+                backgroundColor: "#3a86ff",
+                "&:hover": {
+                  backgroundColor: "#2667cc",
+                },
+              }}
+              onClick={() => setDrawerOpen(true)}
+            >
+              View Details
+            </Button>
+          </Box>
         </CardContent>
       </Card>
 
@@ -158,12 +203,12 @@ export default function ParcelPopupCard({ feature, setSelectedFeature }) {
             >
               <CloseIcon />
             </IconButton>
-            <IconButton
+            {/* <IconButton
               sx={{ color: "#fff" }}
               onClick={() => alert("Download functionality here")}
             >
               <DownloadIcon />
-            </IconButton>
+            </IconButton> */}
           </Box>
         </Box>
 
@@ -176,8 +221,9 @@ export default function ParcelPopupCard({ feature, setSelectedFeature }) {
           <Tab label="Owner Info" />
           <Tab label="Location Info" />
           <Tab label="Last Sale Info" />
-          <Tab label="Property Characteristics" />
+
           <Tab label="Prior Sale Info" />
+          <Tab label="Property Characteristics" />
         </Tabs>
 
         <Box sx={{ p: 2 }}>
@@ -262,7 +308,7 @@ export default function ParcelPopupCard({ feature, setSelectedFeature }) {
             </Grid>
           )}
           {/* Property Characteristics Tab */}
-          {tabIndex === 3 && (
+          {tabIndex === 4 && (
             <Grid container spacing={2}>
               <Grid size={6}>
                 <InfoCard label="Year Built" value={YR_BLT || "--"} />
@@ -321,7 +367,7 @@ export default function ParcelPopupCard({ feature, setSelectedFeature }) {
             </Grid>
           )}
           {/* Prior Sale Info Tab */}
-          {tabIndex === 4 && (
+          {tabIndex === 3 && (
             <Grid container spacing={2}>
               <Grid size={6}>
                 <InfoCard
